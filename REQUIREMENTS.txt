@@ -1,0 +1,9 @@
+sys
+os
+openpyxl
+PIL
+pyautogui
+win32gui
+win32con
+time
+ 
